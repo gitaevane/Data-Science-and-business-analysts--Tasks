@@ -17,3 +17,18 @@ You are the business owner of the retail firm and want to see how your company i
 
 dataset-https://drive.google.com/file/d/1lV7is1B566UQPYzzY8R2ZmOritTW299S/view
 
+# Task 4 - Exploratory Data Analysis’ on  ‘Global Terrorism’
+Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
+ As a security/defense analyst, try to find out the hot zone of terrorism.
+ What all security issues and insights you can derive by EDA?
+
+Dataset- https://bit.ly/2TK5Xn5
+
+# Task 5 - Exploratory Data Analysis’ on  ‘Sports’
+
+Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’
+ As a sports analysts, find out the most successful teams, players and factors
+contributing win or loss of a team.
+ Suggest teams or players a company should endorse for its products.
+ 
+Dataset: https://bit.ly/34SRn3b
