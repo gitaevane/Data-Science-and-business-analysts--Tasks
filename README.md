@@ -32,3 +32,24 @@ contributing win or loss of a team.
  Suggest teams or players a company should endorse for its products.
  
 Dataset: https://bit.ly/34SRn3b
+
+
+# Task 6 - Prediction using Decision Tree Algorithm
+
+Create the Decision Tree classifier and visualize it graphically.
+The purpose is if we feed any new data to this classifier, it would be able to
+predict the right class accordingly.
+
+Dataset : https://bit.ly/3kXTdox
+
+
+
+# Task 7 - Stock Market Prediction using Numerical and Textual Analysis
+
+Objective: Create a hybrid model for stock price/performance prediction
+using numerical analysis of historical stock prices, and sentimental analysis of
+news headlines
+
+Dataset:
+#### historical stock prices : https://finance.yahoo.com/
+#### News Headlines: https://www.kaggle.com/therohk/million-headlines
