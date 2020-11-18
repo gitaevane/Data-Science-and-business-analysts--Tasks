@@ -53,3 +53,13 @@ news headlines
 Dataset:
 #### historical stock prices : https://finance.yahoo.com/
 #### News Headlines: https://www.kaggle.com/therohk/million-headlines
+
+
+# Task 8 - Timeline Analysis : Covid-19
+
+Create a storyboard showing spread of Covid-19 cases in your country and Identify interesting patterns and possible reasons helping Covid-19 spread with
+basic as well as advanced charts.
+
+Dataset:
+
+https://www.kaggle.com/sudalairajkumar/covid19-in-india
